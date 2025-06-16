@@ -1,0 +1,15 @@
+{
+  "originHash" : "cafa03320e8f416efa3ea6acb1b279169d6f352f114ce4c8dd520df723233be2",
+  "pins" : [
+    {
+      "identity" : "swift-emv-format-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nhenhe1012/swift-emv-format-parser.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "0f22a514042fc753b72286f876a7a5178888fc88"
+      }
+    }
+  ],
+  "version" : 3
+}
